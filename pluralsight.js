@@ -3,3 +3,5 @@
 // when you declare a variable its best to give it a value
 
 // const variables
+
+// operator precedence 
